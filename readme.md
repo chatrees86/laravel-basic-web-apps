@@ -1,5 +1,6 @@
 Basic CRUD, Interface MySQL, Call API, Upload files and Login-Logout.
 <br />
+<br />
 How to install laravel basic web app on localhost.
 1. Install web server on local (XAMPP).
 2. XAMPP Panel Start apache and mysql.
